@@ -69,7 +69,16 @@ console.log("Reversed Array", reversedArray);
 
 
 //N7
-
+function asaki(){
+    age = 19
+    if(age > 18){
+        console.log("სრულწლოვანი");
+    }
+    else{
+        console.log( "არასწულწლოვანი");
+    }
+}
+asaki()
 
 //N8
 function shedareba(num1, num2){
